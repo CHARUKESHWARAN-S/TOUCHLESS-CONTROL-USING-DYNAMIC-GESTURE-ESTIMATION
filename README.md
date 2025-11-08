@@ -33,9 +33,6 @@ Built using *MediaPipe, **OpenCV, and **Python, it detects and interprets gestur
 
 ## 📂 Project Structure
 📦 touchless-control
-┣ 📂 dataset/ # Collected gesture videos or landmarks
-┣ 📂 models/ # Trained gesture recognition models
-┣ 📂 scripts/ # Core Python files (detection, control)
 ┣ 📜 requirements.txt # Dependencies
 ┣ 📜 LICENSE # MIT License
 ┗ 📜 README.md # Project description
