@@ -40,23 +40,25 @@ Built using *MediaPipe, **OpenCV, and **Python, it detects and interprets gestur
 
 
 ---
+## Perform gestures like:
+
+☝️ Index finger only - 🎯 Cursor Control
+
+👍 / 👎 Thumb Up / Down – 🔊 Volume Up / Down
+
+🖖 Three fingers up (index + middle + ring) – ▶️ Play / Pause
+
+✋ Four fingers up (no thumb) – ⏭️ Next Track
+
+✋ Five fingers up - ⏮️ Previous Track
+
+---
 
 ## 🧩 Installation
 ```bash
 git clone https://github.com/CHARUKESHWARAN-S/TOUCHLESS-CONTROL-USING-DYNAMIC-GESTURE-ESTIMATION.git
 cd touchless-control
 pip install -r requirements.txt
-▶ Usage
-bash
-Copy code
 python main.py
-Perform gestures like:
 
-✋ Swipe Left / Right – navigate
-
-👊 Fist Hold – pause/play media
-
-☝ Move Hand – control cursor
-
-🤚 Open Palm Up/Down – volume up/down
 
